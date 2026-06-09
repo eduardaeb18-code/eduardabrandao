@@ -7,7 +7,7 @@ Uma oportunidade de estágio para aplicar e expandir os meus conhecimentos prát
 
 ### Competências e Tecnologias:
 - Backend e Linguagens: PHP, Python, Kotlin
-- Bases de Dados: MySQL / SQL
+- Bases de Dados: MySQL / NoSQL
 - Frontend: HTML5, CSS3, JavaScript
 
 ### Objetivos:
