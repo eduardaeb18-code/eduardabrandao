@@ -32,15 +32,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📂 Featured Project: MoneyWise
+
+This is my main current project, showcasing my full-stack capabilities.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardaeb18-code&show_icons=true&theme=dark&locale=en" alt="Eduarda's GitHub Stats" width="80%" />
+  <img src="https://img.shields.io/badge/Status-Active%20Development-green?style=for-the-badge" alt="Project Status" />
+  <img src="https://img.shields.io/badge/Main%20Tech-Python%20|%20Flask-blue?style=for-the-badge" alt="Project Tech" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaeb18-code&layout=compact&theme=dark&locale=en" alt="Top Languages" width="80%" />
-</p>
+*   **Description:** A comprehensive personal finance management application, featuring investment simulators and financial planning tools.
+*   **Key Features:** User Authentication, Expense Tracking, Relatórios (Reports), Investment Simulators.
+*   **Next Steps:** Integration of advanced financial APIs and enhanced UI/UX.
 
 ---
 
