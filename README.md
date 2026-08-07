@@ -34,9 +34,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardaeb18-code&show_icons=true&theme=dark" alt="Eduarda's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaeb18-code&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardaeb18-code&show_icons=true&theme=dark&locale=en" alt="Eduarda's GitHub Stats" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaeb18-code&layout=compact&theme=dark&locale=en" alt="Top Languages" width="80%" />
 </p>
 
 ---
