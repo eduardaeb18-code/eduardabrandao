@@ -1,14 +1,46 @@
-# Olá, sou a Eduarda,
+# Hi, I'm Eduarda Brandão 👋
 
-Estudante de Programação e Sistemas de Informação (Nível 5 IEFP), com 26 anos, em fase de transição de carreira para a área tecnológica.
+### 👩‍💻 About Me
+* 🎓 **Level 5 CTeSP Student** in Information Systems & Programming Technologies (IEFP)
+* 🔄 **Career Switcher** transitioning into the Tech Industry with strong motivation and fast-learning capacity
+* 🎯 **Looking for an Internship** to apply and expand practical skills in Backend Development, Database Management, and Web Applications
+* 🎓 **Goal:** Combining full-time work / internship with evening Higher Education studies
 
-### O que procuro:
-Uma oportunidade de estágio para aplicar e expandir os meus conhecimentos práticos em desenvolvimento Backend, manipulação de bases de dados e criação de aplicações web.
+---
 
-### Competências e Tecnologias:
-- Backend e Linguagens: PHP, Python, Kotlin
-- Bases de Dados: MySQL / NoSQL
-- Frontend: HTML5, CSS3, JavaScript
+### 🛠️ Tech Stack & Skills
 
-### Objetivos:
-Conciliar o mercado de trabalho com a frequência do Ensino Superior em regime pós-laboral.
+**Languages & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Frontend & Web**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+> ⚡ **Highlights:** Fast learner with adaptability across multiple programming paradigms (OOP, Scripting, Web & Mobile basics).
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardaeb18-code&show_icons=true&theme=dark" alt="Eduarda's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaeb18-code&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-brand%C3%A3o-4525aa1a1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduarda.eb18@gmail.com)
